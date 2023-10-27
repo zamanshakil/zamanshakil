@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Shakil, a machine learning researcher and full stack software developer. I have 5 years of experience in object oriented programming like python, java and prficient in data analysis and data engineering. I worked as machine learning researcher in Rochester Institute of Technology. If you are looking for a developer, you can email me and we can talk for a potential collaboration. If you are an individual who wants to talk regading any aformentioned topic, most welcome.
-My email address is mdshakilzaman2020@gmail.com
+Hello, I'm Shakil, a Business Intelligence Analyst with a background in machine learning. I have over 5 years of experience in machine learning and data analysis, specializing in languages such as Python and Java.
+Previously, I worked as a Machine Learning Researcher at the Rochester Institute of Technology. Now, I bring my expertise to the field of Business Intelligence, where I work on data science projects at Paychex. If you're interested in collaborating on data-driven projects or discussing any of the aforementioned topics, please feel free to reach out. You can contact me via email at mdshakilzaman2020@gmail.com.
 
 ## 🛠️ My favorite tools
 
